@@ -1,0 +1,14 @@
+.section-title {
+  width: 60%;
+  padding-bottom: 20px;
+  margin: 0;
+  line-height: 1.5;
+  font-size: 60px;
+  font-weight: bold;
+  text-align:center;
+}
+
+.section-title_dark {
+  color: white;
+  position: relative;
+}

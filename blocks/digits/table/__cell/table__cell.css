@@ -1,0 +1,9 @@
+.table__cell {
+  width: 250px;
+ list-style: none;
+}
+.table__cell_dark {
+  width: 200px;
+  color: white;
+  z-index: 1;
+}
